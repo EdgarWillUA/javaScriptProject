@@ -1,2 +1,2 @@
-alert ('hello Lena :-)');
-alert ('Цем :-)');
+let sleep = prompt('Do you want sleep?');
+console.log(sleep);
